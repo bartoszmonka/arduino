@@ -2,7 +2,7 @@
 
 #include <OneWire.h>
 
-// Numer pinu cyfrowego do którego podłaczyłęś czujniki
+// Numer pinu cyfrowego
 const byte ONEWIRE_PIN = 8;
 
 OneWire onewire(ONEWIRE_PIN);
